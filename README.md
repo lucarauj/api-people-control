@@ -12,7 +12,7 @@
 - H2 database
 - Lombok
 - Validation
-- Spring WebMVC
+- Spring Doc WebMVC UI
 
 ### ⚙ Configurando o arquivo application.properties
 
@@ -31,6 +31,8 @@ spring.h2.console.settings.web-allow-others=false
 
 spring.jpa.defer-datasource-initialization=true
 ```
+### ✔ Swagger (URL 👉 [🖱](http://localhost:8080/swagger-ui/index.html?url=/v3/api-docs&validatorUrl=)) 
+<img width="800px" src="https://github.com/lucarauj/api-people-control/blob/main/images/Swagger.png"/>
 
 ### ❌ Requisições:
 
