@@ -78,6 +78,15 @@ spring.jpa.defer-datasource-initialization=true
 <img align="center" alt="Lucarauj-H2" height="30" width="30" src="https://github.com/lucarauj/assets/blob/main/H2.png">
 </div>
 
+## Qualidade de código
+
+#### 1. Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+R. É necessário que seja atendido os critérios de funcionalidade, confiabilidade, usabilidade, eficiência, manutenibilidade e portabilidade.
+
+#### 2. Em qual etapa da implementação você considera a qualidade de software?
+R. Na etapa de Funcionalidade pois é onde será verificada a satisfação das necessidades nas condições especificadas.
+
+
 ## Autor
 
 #### Lucas Araujo
